@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 I am SadhaSri</h2>
 
-<p align="right">
+<p align="left">
   <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Motion Capture GIF" />
 </p>
 
