@@ -8,7 +8,7 @@
 - 🚀 Building scalable web applications, experimenting with backend services, and contributing to open source.
 - 🌱 Currently learning advanced system architecture, cloud platforms, and data structures.
 - 💬 Ask me about **Full-Stack Development, APIs, and Modern Frameworks**.
-- ⚡ Fun fact: Doing crazy things and experiencing weird things .
+- ⚡ Fun fact: Doing crazy things and experiencing weird things.
 
 ---
 
@@ -93,10 +93,10 @@
 
 ### **Most Used Languages**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadhaSri&layout=compact&theme=prussian&hide_border=true" alt="Most Used Languages" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadhaSri&layout=compact&langs_count=8&theme=prussian&hide_border=true&cache_bust=2" alt="Most Used Languages" width="52%" />
 </p>
 
 ### **GitHub Streak**
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=SadhaSri&theme=prussian&hide_border=true" alt="GitHub Streak" width="52%" />
+  <img src="https://streak-stats.demolab.com/?user=SadhaSri&theme=prussian&hide_border=true&cache_bust=2" alt="GitHub Streak" width="52%" />
 </p>
